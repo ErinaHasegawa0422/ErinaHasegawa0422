@@ -10,6 +10,4 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ErinaHasegawa0422)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ErinaHasegawa0422)
-
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ErinaHasegawa0422&layout=compact)
